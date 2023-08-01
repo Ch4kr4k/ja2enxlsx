@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="systemdesign.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.95677609"
+     inkscape:cx="354.83746"
+     inkscape:cy="378.87652"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker12"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path12" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.349663;stroke-opacity:1"
+       id="rect3"
+       width="54.613071"
+       height="14.657196"
+       x="75.489418"
+       y="10.397512"
+       ry="1.4454451" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.56503px;fill:none;stroke:#000000;stroke-width:0.463752;stroke-opacity:1"
+       x="84.876274"
+       y="19.587831"
+       id="text4"
+       transform="scale(0.96776172,1.0333122)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.463752"
+         x="84.876274"
+         y="19.587831">Select a xlsx file</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.56503px;fill:none;stroke:#000000;stroke-width:0.463752;stroke-opacity:1"
+       x="141.99626"
+       y="41.453983"
+       id="text4-0"
+       transform="scale(0.96776172,1.0333122)"><tspan
+         sodipodi:role="line"
+         id="tspan4-6"
+         style="stroke-width:0.463752"
+         x="141.99626"
+         y="41.453983">Password prompt</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.2948;stroke-opacity:1"
+       id="rect3-5"
+       width="47.287502"
+       height="12.032573"
+       x="57.918701"
+       y="64.362488"
+       ry="1.1866133" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.389057;stroke-opacity:1"
+       id="rect3-5-23"
+       width="78.56955"
+       height="12.613082"
+       x="51.949013"
+       y="105.57024"
+       ry="1.2438613" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.389057;stroke-opacity:1"
+       id="rect3-5-23-7"
+       width="78.56955"
+       height="12.613082"
+       x="52.154503"
+       y="141.78574"
+       ry="1.2438613" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.330491;stroke-opacity:1"
+       id="rect3-5-23-3"
+       width="57.106308"
+       height="12.522325"
+       x="113.14279"
+       y="78.369743"
+       ry="1.2349111" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.292702;stroke-opacity:1"
+       id="rect3-5-2"
+       width="46.275696"
+       height="12.121241"
+       x="137.30733"
+       y="35.157463"
+       ry="1.1953574" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker12);stroke-dasharray:none"
+       d="m 120.78031,25.054708 24.79212,10.102755"
+       id="path6"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect3"
+       inkscape:connection-end="#rect3-5-2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide);image-rendering:auto"
+       d="M 99.840514,25.054708 83.98867,64.362488"
+       id="path7"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect3"
+       inkscape:connection-end="#rect3-5"
+       inkscape:label="path7" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.56503px;fill:none;stroke:#000000;stroke-width:0.463752;stroke-opacity:1"
+       x="68.711227"
+       y="71.817688"
+       id="text4-8"
+       transform="scale(0.96776172,1.0333122)"><tspan
+         sodipodi:role="line"
+         id="tspan4-7"
+         style="stroke-width:0.463752"
+         x="68.711227"
+         y="71.817688">Load the file</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.56503px;fill:none;stroke:#000000;stroke-width:0.463752;stroke-opacity:1"
+       x="60.243294"
+       y="109.90934"
+       id="text4-8-2"
+       transform="scale(0.96776172,1.0333122)"><tspan
+         sodipodi:role="line"
+         id="tspan4-7-2"
+         style="stroke-width:0.463752"
+         x="60.243294"
+         y="109.90934">Translatation of loaded file</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;fill:none;stroke:#000000;stroke-width:0.463752;stroke-opacity:1"
+       x="59.984097"
+       y="145.88145"
+       id="text4-8-2-0"
+       transform="scale(0.96776172,1.0333122)"><tspan
+         sodipodi:role="line"
+         id="tspan4-7-2-36"
+         style="font-size:4.93889px;stroke-width:0.463752"
+         x="59.984097"
+         y="145.88145">save the loaded file as new xlsx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.56503px;fill:none;stroke:#000000;stroke-width:0.463752;stroke-opacity:1"
+       x="120.32288"
+       y="84.114326"
+       id="text4-8-2-9"
+       transform="scale(0.96776172,1.0333122)"><tspan
+         sodipodi:role="line"
+         id="tspan4-7-2-3"
+         style="stroke-width:0.463752"
+         x="120.32288"
+         y="84.114326">Googletrans library</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#ArrowWide)"
+       d="M 144.05056,47.278704 97.837137,64.362488"
+       id="path8"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect3-5-2"
+       inkscape:connection-end="#rect3-5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#ArrowWide)"
+       d="m 82.964581,76.395061 6.799433,29.175179"
+       id="path9"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect3-5"
+       inkscape:connection-end="#rect3-5-23" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#ArrowWide)"
+       d="M 130.09963,90.892068 102.91415,105.57024"
+       id="path10"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect3-5-23-3"
+       inkscape:connection-end="#rect3-5-23" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#ArrowWide)"
+       d="m 91.269571,118.18332 0.133923,23.60242"
+       id="path11"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect3-5-23"
+       inkscape:connection-end="#rect3-5-23-7" />
+  </g>
+</svg>
