@@ -1,7 +1,7 @@
 ## jupyter notebook of japanese to English xlsx converter for single sheet without psswd
 E Chakrak <br>
 Tm no.896 <br>
-[github_link](https://www.github.com/Ch4kr4k/ja23nxlsx)
+[github_link](https://www.github.com/Ch4kr4k/ja2enxlsx)
 
 #### rough proposal of system design
 ![sys](systemdesign.png)
