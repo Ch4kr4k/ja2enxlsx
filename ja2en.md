@@ -259,10 +259,3 @@ saved_df.head()
   </tbody>
 </table>
 </div>
-
-
-
-
-```python
-
-```
