@@ -11,3 +11,5 @@ to compile it to an executable binary file
 pyinstaller --onefile __main__.py
 ```
 pre compiled linux binary is in `dist/__main__`
+eg
+![image](./testers/test.png)
